@@ -8,7 +8,7 @@ const Project = ({project}) => {
             <img src={project.image} alt="Portfolio Project Image" />
         </div>
         <h4>{project.title}</h4>
-        <p>{project.desc}</p>
+        <p className='para-project'>{project.desc}</p>
         <div className="portfolio__project-cta">
             <a href={project.demo} className="btn sm" target="_blank" rel="noopener noreferrer">Demo</a>
             <a href={project.github} className="btn sm primary" target="_blank" rel="noopner noreferrer">Gitbub</a>
@@ -19,4 +19,3 @@ const Project = ({project}) => {
 
 export default Project
 
-//dhruv portfolio website made from udemy 

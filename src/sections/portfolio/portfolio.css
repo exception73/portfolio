@@ -13,7 +13,9 @@
 .btn.cat__btn:hover {
     transform: translateY(0);
 }
-
+.para-project{
+    color: rgb(108, 104, 104);
+}
 
 .portfolio__projects {
     margin-top: 3rem;

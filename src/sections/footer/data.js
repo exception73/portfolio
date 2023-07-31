@@ -14,10 +14,9 @@ export const links = [
 
 
 export const socials = [
-    {id: 1, link: 'https://wa.me/+919319014580', icon: <FaWhatsapp/>},
-    {id: 2, link: 'https://twitter.com/MeMitocondria', icon: <AiOutlineTwitter/>},
-    {id: 3, link: 'http://linkedin.com/in/dhruv-mehta-a6b20322a', icon: <AiOutlineLinkedin/>},
-    {id: 4, link: 'https://github.com/theMitocondria', icon: <AiFillGithub/>}
+    {id: 1, link: 'https://wa.me/+917404659405', icon: <FaWhatsapp/>},
+    {id: 2, link: 'https://twitter.com/gautamkhatri05', icon: <AiOutlineTwitter/>},
+    {id: 3, link: 'http://linkedin.com/in/gautam-khatri-873131222/', icon: <AiOutlineLinkedin/>},
+    {id: 4, link: 'https://github.com/exception73', icon: <AiFillGithub/>}
 ]
 
-//dhruv portfolio website made from udemy 

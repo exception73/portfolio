@@ -28,8 +28,9 @@
     margin-bottom: 0.7rem;
 }
 
-
-
+.para-project{
+    color: rgb(108, 104, 104);
+}
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
     .services__container {
