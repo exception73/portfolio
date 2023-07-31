@@ -2,6 +2,7 @@
 import {AiOutlineTwitter} from 'react-icons/ai'
 import {AiOutlineLinkedin} from "react-icons/ai";
 import {AiFillGithub} from 'react-icons/ai'
+import {SiLeetcode,SiCodeforces} from 'react-icons/si';
 import {FaWhatsapp} from 'react-icons/fa'
 
 export const links = [
@@ -17,6 +18,8 @@ export const socials = [
     {id: 1, link: 'https://wa.me/+917404659405', icon: <FaWhatsapp/>},
     {id: 2, link: 'https://twitter.com/gautamkhatri05', icon: <AiOutlineTwitter/>},
     {id: 3, link: 'http://linkedin.com/in/gautam-khatri-873131222/', icon: <AiOutlineLinkedin/>},
-    {id: 4, link: 'https://github.com/exception73', icon: <AiFillGithub/>}
+    {id: 4, link: 'https://github.com/exception73', icon: <AiFillGithub/>},
+    {id:5, link: 'https://leetcode.com/exception73', icon: <SiLeetcode/> },
+    {id:5, link: 'https://codeforces.com/profile/exception73', icon: <SiCodeforces/> }
 ]
 

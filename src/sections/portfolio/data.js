@@ -23,7 +23,7 @@ const data = [
     {
         id: 800,
         category: 'FullStack',
-        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215618_edrnlc.png",
+        image: "https://res.cloudinary.com/dycitvrpg/image/upload/v1690796799/Screenshot_from_2023-07-31_15-15-49_n72ied.png",
         title: "Connect",
         desc: "A platform that enables user to connect with each other, can build a community together and share their thoughts. ",
         demo: 'https://konecttt.vercel.app/',
