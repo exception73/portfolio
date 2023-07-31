@@ -1,40 +1,43 @@
 
 const data = [
-    {
-        id: 1,
-        category: 'JavaScript',
-        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215405_snx1y5.png",
-        title: "PayU",
-        desc: "PayU is excited to announce that we now offer an innovative payment solution with QR codes. Our users can easily make and accept payments with just a scan. Fast, secure and hassle-free",
-        demo: 'https://college-project-fqss.vercel.app/linkpe.html?error',
-        github: 'https://github.com/theMitocondria'
-    },
+
     {
         id: 2,
         category: 'FullStack',
         image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215442_cg1ttp.png",
         title: "CrossFit",
         desc: "Crossfit One Stop Fitness Sol offers dynamic and intense group workouts that improve strength, cardio, and flexibility. With experienced coaches and community support,",
-        demo: 'https://crossfit-front.vercel.app/',
-        github: 'https://github.com/theMitocondria/crossfit-front'
+        demo: 'https://crossfit-front-gamma.vercel.app/signin',
+        github: 'https://github.com/exception73/crossfitFront'
     },
+ 
     {
         id: 8,
         category: 'FullStack',
         image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215618_edrnlc.png",
         title: "MarketPlace",
         desc: "Our marketplace website offers a platform for anyone to buy and sell products easily. With a user-friendly interface and secure transactions, anyone can join our community and start trading today!",
-        demo: 'https://market-place-two.vercel.app/',
-        github: 'https://github.com/theMitocondria/MarketPlace'
+        demo: 'https://market-place-front-xi.vercel.app/',
+        github: 'https://github.com/exception73/MarketPlaceFront'
     },
+    {
+        id: 800,
+        category: 'FullStack',
+        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215618_edrnlc.png",
+        title: "Connect",
+        desc: "A platform that enables user to connect with each other, can build a community together and share their thoughts. ",
+        demo: 'https://konecttt.vercel.app/',
+        github: 'https://github.com/exception73/konect'
+    },
+    
     {
         id: 3,
         category: 'Frontend',
-        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215803_gqphxw.png",
-        title: "TinDog",
-        desc: "tinDOg is a responsive web application that uses Bootstrap, an open-source CSS framework, for its design and layout. This ensures easy navigation and compatibility across various devices",
-        demo: 'https://tin-dog-nine.vercel.app/',
-        github: 'https://github.com/theMitocondria/TinDog'
+        image: "https://res.cloudinary.com/dycitvrpg/image/upload/v1690779271/Screenshot_from_2023-07-31_10-23-35_zratru.png",
+        title: "Sorting Visulizer",
+        desc: "Sorting Visulizer helps a newbie person the understand the how the all sorting algorithms works with animation, they can also change the array size and sorting alogorithm and it's speed.",
+        demo: 'https://sorting-visulizer-gold.vercel.app/',
+        github: 'https://github.com/exception73/sortingVisulizer'
     },
     {
         id: 4,
@@ -45,23 +48,26 @@ const data = [
         demo: 'https://ecommerc-eapi.onrender.com/',
         github: 'https://github.com/theMitocondria/BackendCrossfit'
     },
-    {
-        id: 5,
-        category: 'JavaScript',
-        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958549/Screenshot_2023-05-01_215550_cppvsy.png",
-        title: "Blog Website",
-        desc: "Welcome to our blog all about EJS! Here, you'll find plenty of content related to this powerful templating language for Node.js, including tips for easing your development workflow, advanced features ",
-        demo: 'http://egat',
-        github: 'https://github.com/theMitocondria/NewBlog'
-    },
+  
     {
         id: 6,
         category: 'Frontend',
         image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958549/Screenshot_2023-05-01_215550_cppvsy.png",
         title: "Serenity",
         desc: "Serenity is a React-based stress buster website designed to provide a peaceful and relaxing experience for users. From calming music and soothing sounds to mindful meditation exercises, Serenity aims to help users recharge and de-stress from their busy lives. ",
-        demo: 'https://serenity-gamma.vercel.app/',
-        github: "https://github.com/theMitocondria/Serenity"
+        demo: 'https://serenity-kappa.vercel.app/',
+        github: "https://github.com/exception73/serenity"
+    },
+    {
+        id: 1,
+        category: 'JavaScript',
+        image: "https://res.cloudinary.com/dycitvrpg/image/upload/v1690780190/Screenshot_from_2023-07-31_10-39-37_pfpugf.png",
+        title: "Password Generator",
+        desc: "With increasing in number of data breaches from big companies it is important for a user to set hardest password that cannot be easily cracked, so this application is made for u to secure yourself.",
+        demo: 'https://password-generator-fawn-one.vercel.app/',
+        github: 'https://github.com/exception73/password-generator'
     }
+
+
 ]
 export default data

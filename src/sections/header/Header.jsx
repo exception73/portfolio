@@ -1,4 +1,4 @@
-import HeaderImage from '../../assets/now.jpg'
+import HeaderImage from '../../assets/now.png'
 import data from './data'
 import './header.css'
 import { TypeAnimation } from 'react-type-animation'
@@ -13,7 +13,7 @@ const Header = () => {
             <TypeAnimation
             sequence={[
               // Same substring at the start will only be typed out once, initially
-              'I am Dhruv Mehta',
+              'I am Gautam Buddh',
               1000, // wait 1s before replacing "Mice" with "Hamsters"
               'I am Full Stack Developer',
               1000,

@@ -19,4 +19,3 @@ const Project = ({project}) => {
 
 export default Project
 
-//dhruv portfolio website made from udemy 

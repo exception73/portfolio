@@ -1,10 +1,10 @@
-import AboutImage from '../../assets/now.jpg'
+import AboutImage from '../../assets/now.png'
 import CV from '../../assets/cv.pdf'
 import {HiDownload} from 'react-icons/hi'
 import data from './data'
 import Card from '../../components/Card'
 import './about.css'
-//dhruv portfolio website made from udemy 
+
 const About = () => {
   return (
     <section id="about">
@@ -31,12 +31,12 @@ const About = () => {
                 On a web development odyssey for a year, perpetually growing wiser, and striving to surpass myself every day.
                 </p>
                 <p>
-                Hello, I'm Dhruv Mehta from Haryana, India. A Full stack web developer currently pursuing a Computer Engineering degree specializing in Data Science. With a focus on delivering excellence with patience, I have successfully completed numerous projects and gained insights into industry standards. I am now actively seeking job opportunities to apply my skills and contribute to your projects. Please find my resume below. Let's connect and explore how I can add value to your team!</p>
+                Hello, I'm Gautam Buddh from Haryana, India. A Full stack web developer currently pursuing a Computer Engineering degree specializing in Data Science. With a focus on delivering excellence with patience, I have successfully completed numerous projects and gained insights into industry standards. I am now actively seeking job opportunities to apply my skills and contribute to your projects. Please find my resume below. Let's connect and explore how I can add value to your team!</p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
         </div>
     </section>
   )
 }
-//dhruv portfolio website made from udemy 
+
 export default About
