@@ -1,4 +1,3 @@
-
 const data = [
 
     {
@@ -39,15 +38,7 @@ const data = [
         demo: 'https://sorting-visulizer-gold.vercel.app/',
         github: 'https://github.com/exception73/sortingVisulizer'
     },
-    {
-        id: 4,
-        category: 'Backend',
-        image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215618_edrnlc.png",
-        title: "Ecommerce",
-        desc: "Backend handles the technical aspects of e-commerce, including database management, server configuration, payment processing, and order fulfillment. It enables smooth functioning of online stores, ensuring a seamless customer experience",
-        demo: 'https://ecommerc-eapi.onrender.com/',
-        github: 'https://github.com/theMitocondria/BackendCrossfit'
-    },
+    
   
     {
         id: 6,
@@ -70,4 +61,4 @@ const data = [
 
 
 ]
-export default data
+export default data;
