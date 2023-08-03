@@ -31,7 +31,7 @@ const About = () => {
                 On a web development odyssey for a year, perpetually growing wiser, and striving to surpass myself every day.
                 </p>
                 <p>
-                Hello, I'm Gautam Buddh from Haryana, India. A Full stack web developer currently pursuing a Computer Engineering degree specializing in Data Science. With a focus on delivering excellence with patience, I have successfully completed numerous projects and gained insights into industry standards. I am now actively seeking job opportunities to apply my skills and contribute to your projects. Please find my resume below. Let's connect and explore how I can add value to your team!</p>
+                Hello, I'm Gautamfrom Haryana, India. A Full stack web developer currently pursuing a Computer Engineering degree specializing in Data Science. With a focus on delivering excellence with patience, I have successfully completed numerous projects and gained insights into industry standards. I am now actively seeking job opportunities to apply my skills and contribute to your projects. Please find my resume below. Let's connect and explore how I can add value to your team!</p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
         </div>
