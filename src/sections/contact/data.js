@@ -5,7 +5,6 @@ import {AiOutlineTwitter} from 'react-icons/ai'
 import {AiOutlineLinkedin} from "react-icons/ai";
 import {AiFillGithub} from 'react-icons/ai'
 import {SiLeetcode,SiCodeforces} from 'react-icons/si';
-import {FaWhatsapp} from 'react-icons/fa'
 
 const data = [
     {id: 1, icon: <HiOutlineMail/>, link: 'mailto:buddhgautam777@gmail.com'},
