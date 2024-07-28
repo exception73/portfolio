@@ -15,7 +15,7 @@ export const links = [
 
 
 export const socials = [
-    {id: 1, link: 'https://wa.me/+917404659405', icon: <FaWhatsapp/>},
+
     {id: 2, link: 'https://twitter.com/gautamkhatri05', icon: <AiOutlineTwitter/>},
     {id: 3, link: 'http://linkedin.com/in/gautambuddh/', icon: <AiOutlineLinkedin/>},
     {id: 4, link: 'https://github.com/exception73', icon: <AiFillGithub/>},
