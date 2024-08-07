@@ -1,6 +1,16 @@
 const data = [
 
     {
+        id : 11,
+        category : 'FullStack',
+        image:"https://res.cloudinary.com/dycitvrpg/image/upload/v1723001338/z8wgzxrydj2fajicu5ti.png",
+        title:"LC POLICE",
+        desc : "Find out the cheaters in the leetcode contests, so that you can go and report them and make the game more fair for everyone out there.",
+        demo:"https://lc-police.vercel.app/",
+        github:"https://github.com/exception73/LCPolice"
+    },
+
+    {
         id: 2,
         category: 'FullStack',
         image: "https://res.cloudinary.com/dejvlvhlp/image/upload/v1682958548/Screenshot_2023-05-01_215442_cg1ttp.png",
